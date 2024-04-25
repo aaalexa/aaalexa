@@ -39,11 +39,5 @@ I am a passionate computer engineering student, dedicated and enthusiastic about
 
 
 
-<pag align="center">
-<a href="https://github.com/aaalexa">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=aaalexa&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=aaalexa&layout=compact&langs_count=8&theme=algolia"/>
-</a>
-</pag>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
