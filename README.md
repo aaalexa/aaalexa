@@ -49,5 +49,5 @@ I am a passionate computer engineering student, dedicated and enthusiastic about
 
 
 &nbsp;<div align="center">
-  [![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/intl-es/track/4lR8sYGMGZPvthF2yUfo7T?si=c2eca201ae464102)
+  [![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/intl-es/track/4lR8sYGMGZPvthF2yUfo7T?si=d1e49a1df5944de1)
 </div>
