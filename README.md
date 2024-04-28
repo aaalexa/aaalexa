@@ -48,4 +48,4 @@ I am a passionate computer engineering student, dedicated and enthusiastic about
 
 
 
- <div align="center"> [![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/embed/track/4lR8sYGMGZPvthF2yUfo7T?si=4b537615d0284384) </div>
+ <div align="center">[![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/embed/track/4lR8sYGMGZPvthF2yUfo7T?si=4b537615d0284384)</div>
